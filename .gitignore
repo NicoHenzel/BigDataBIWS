@@ -1,0 +1,14 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*$
+.env
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.sqlite3
+env/
+*.py~
+src/preprocessing/preprocessingTest.ipynb
+src/modelling/modelling_debug.ipynb
